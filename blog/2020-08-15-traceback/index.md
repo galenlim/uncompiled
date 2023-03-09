@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Traceback Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![traceback badge](./tracebackbadge.jpg)

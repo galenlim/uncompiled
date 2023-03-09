@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Resolute Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![resolute badge](./resolutebadge.jpg)

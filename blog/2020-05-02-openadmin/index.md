@@ -1,6 +1,9 @@
 ---
 layout: post
 title: OpenAdmin Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![openadmin badge](./openadminbadge.jpg)

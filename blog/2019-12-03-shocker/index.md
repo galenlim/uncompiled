@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Shocker Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![shocker badge](./shockerbadge.jpg)

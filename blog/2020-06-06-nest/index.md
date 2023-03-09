@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Nest Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![nest badge](./nestbadge.jpg)

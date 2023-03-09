@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Mirai Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![mirai badge](./miraibadge.jpg)

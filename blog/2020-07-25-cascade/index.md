@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Cascade Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![cascade badge](./cascadebadge.jpg)

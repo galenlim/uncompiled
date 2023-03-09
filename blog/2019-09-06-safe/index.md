@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Safe Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![safe badge](./safebadge.jpg)

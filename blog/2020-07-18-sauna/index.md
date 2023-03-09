@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Sauna Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![sauna badge](./saunabadge.jpg)

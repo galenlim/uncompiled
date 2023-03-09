@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Wall Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![wall badge](./wallbadge.jpg)

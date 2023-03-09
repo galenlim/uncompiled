@@ -1,6 +1,9 @@
 ---
 layout: post
 title: ServMon Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![servmon badge](./servmonbadge.jpg)

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Monteverde Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![monteverde badge](./montbadge.jpg)

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Book Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![book badge](./bookbadge.jpg)
