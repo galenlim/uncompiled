@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Play',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/play.svg').default,
     description: (
       <>
         And have fun!
