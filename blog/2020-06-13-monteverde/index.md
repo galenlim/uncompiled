@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monteverde Write-up / Walkthrough - HTB
+title: Monteverde Write-up - HTB
 authors: galen
 tags:
   - htb

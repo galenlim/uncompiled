@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Write-up / Walkthrough - HTB
+title: Book Write-up - HTB
 authors: galen
 tags:
   - htb

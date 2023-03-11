@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Traceback Write-up / Walkthrough - HTB
+title: Traceback Write-up - HTB
 authors: galen
 tags:
   - htb

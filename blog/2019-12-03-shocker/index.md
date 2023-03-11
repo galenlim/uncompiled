@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shocker Write-up / Walkthrough - HTB
+title: Shocker Write-up - HTB
 authors: galen
 tags:
   - htb

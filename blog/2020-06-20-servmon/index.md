@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ServMon Write-up / Walkthrough - HTB
+title: ServMon Write-up - HTB
 authors: galen
 tags:
   - htb

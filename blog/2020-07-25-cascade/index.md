@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cascade Write-up / Walkthrough - HTB
+title: Cascade Write-up - HTB
 authors: galen
 tags:
   - htb

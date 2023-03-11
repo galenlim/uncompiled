@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sauna Write-up / Walkthrough - HTB
+title: Sauna Write-up - HTB
 authors: galen
 tags:
   - htb

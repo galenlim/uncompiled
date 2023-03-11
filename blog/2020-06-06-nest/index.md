@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nest Write-up / Walkthrough - HTB
+title: Nest Write-up - HTB
 authors: galen
 tags:
   - htb

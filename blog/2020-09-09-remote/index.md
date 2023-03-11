@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote Write-up / Walkthrough - HTB
+title: Remote Write-up - HTB
 authors: galen
 tags:
   - htb

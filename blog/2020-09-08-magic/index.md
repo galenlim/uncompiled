@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magic Write-up / Walkthrough - HTB
+title: Magic Write-up - HTB
 authors: galen
 tags:
   - htb

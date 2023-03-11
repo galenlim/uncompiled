@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wall Write-up / Walkthrough - HTB
+title: Wall Write-up - HTB
 authors: galen
 tags:
   - htb

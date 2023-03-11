@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blunder Write-up / Walkthrough - HTB
+title: Blunder Write-up - HTB
 authors: galen
 tags:
   - htb

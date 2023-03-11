@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Admirer Write-up / Walkthrough - HTB
+title: Admirer Write-up - HTB
 authors: galen
 tags:
   - htb

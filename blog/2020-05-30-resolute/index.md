@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resolute Write-up / Walkthrough - HTB
+title: Resolute Write-up - HTB
 authors: galen
 tags:
   - htb

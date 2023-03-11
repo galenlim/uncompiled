@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safe Write-up / Walkthrough - HTB
+title: Safe Write-up - HTB
 authors: galen
 tags:
   - htb

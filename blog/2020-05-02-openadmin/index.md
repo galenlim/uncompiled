@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAdmin Write-up / Walkthrough - HTB
+title: OpenAdmin Write-up - HTB
 authors: galen
 tags:
   - htb

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mirai Write-up / Walkthrough - HTB
+title: Mirai Write-up - HTB
 authors: galen
 tags:
   - htb
