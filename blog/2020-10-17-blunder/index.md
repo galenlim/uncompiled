@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Blunder Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![blunder badge](./blunderbadge.jpg)

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Hunt him down! Write-up - STACK The Flags 2020
+authors: galen
+tags:
+  - STACK
 ---
 
 This is an OSINT challenge from the inaugural STACK The Flags in 2020. (Team bella ciao) 

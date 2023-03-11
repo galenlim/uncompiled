@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Admirer Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![admirer badge](./admirerbadge.jpg)

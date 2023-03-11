@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Remote Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![remote badge](./remotebadge.jpg)

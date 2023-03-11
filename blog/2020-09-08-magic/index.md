@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Magic Write-up / Walkthrough - HTB
+authors: galen
+tags:
+  - htb
 ---
 
 ![magic badge](./badgemagic.jpg)

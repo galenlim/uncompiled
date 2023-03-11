@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Find the leaking bucket! Write-up - STACK The Flags 2020
+authors: galen
+tags:
+  - STACK
 ---
 
 This is a challenge from the Cloud category of the inaugural STACK The Flags in 2020. (Team bella ciao) 
